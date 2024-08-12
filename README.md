@@ -18,16 +18,14 @@
 <body>
     <h1>Connect with Me</h1>
     <div class="social-links">
-        <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/narasimmamoorthy-sukumar/" target="_blank" title="LinkedIn">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="https://steamcommunity.com/id/YOUR_PROFILE" target="_blank" title="Steam">
+        <a href="https://steamcommunity.com/profiles/76561199150321860/" target="_blank" title="Steam">
             <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
         </a>
     </div>
 </body>
-</html>
-
 </head>
 <body>
     <h1>Technologies and Tools</h1>
