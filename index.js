@@ -14,7 +14,7 @@ var prompt = inquirer.createPromptModule();
 
 const data = {
   name: chalk.bold.blue("Narasimmamoorthy Sukumar"),
-  nickname: chalk.bold("Adityacprtm"),
+  nickname: chalk.bold("N-Moorthy"),
 
   web: chalk.green("https://nmoorthy.site    "),
   github: chalk.gray("https://github.com/") + chalk.white("N-Moorthy"),
