@@ -4,15 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-moorthy&label=Profile%20views&color=0e75b6&style=flat" alt="n-moorthy" /> </p>
 
-- 🔭 I’m currently working on **Open Projejects**
-
-- 🌱 I’m currently learning **Azure & GCP**
-
-- 👨‍💻 All of my projects are available at [https://nmoorthy.site/](https://nmoorthy.site/)
-
-- 📫 How to reach me **nmoorthy.s@yahoo.com**
-
-- ⚡ Fun fact **I'm a Gamer**
+</head>
+<body>
+    <div class="info-section">
+        <p>🔭 I’m currently working on <strong>Open Projejects</strong></p>
+        <p>🌱 I’m currently learning <strong>Azure & GCP</strong></p>
+        <p>👨‍💻 All of my projects are available at <a href="https://nmoorthy.site/" target="_blank" title="Website">https://nmoorthy.site/</a></p>
+        <p>📫 How to reach me: <a href="mailto:nmoorthy.s@yahoo.com" title="Email">nmoorthy.s@yahoo.com</a></p>
+        <p>⚡ Fun fact: <strong>I'm a Gamer</strong></p>
+    </div>
+</body>
 
 </head>
 <body>
