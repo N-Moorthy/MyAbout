@@ -7,6 +7,7 @@
 
 ## 😎 Connect with me
 
+[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
 
@@ -40,6 +41,7 @@
 
 </details>
 
+[website]: https://nmoorthy.site
 [steam]: https://steamcommunity.com/profiles/76561199150321860/
 [linkedin]: https://www.linkedin.com/in/narasimmamoorthy-sukumar/
 [github]: https://github.com/N-Moorthy/
