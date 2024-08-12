@@ -5,6 +5,10 @@
 - 📫 How to reach me **nmoorthy.s@yahoo.com**
 - ⚡ Fun fact **I'm a Gamer** 💘
 
+## 😎 Connect with me
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
 
 ## 👨‍💻 Technologies and Tools
 
