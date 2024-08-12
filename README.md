@@ -132,4 +132,24 @@
         </tbody>
     </table>
 </body>
+</head>
+<body>
+    <h1>GitHub Stats</h1>
+    <div class="github-stats">
+        <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Dark" />
+        <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake" />
+    </div>
+    <details>
+        <summary> :zap: Expand me</summary>
+        <!--START_SECTION:waka-->
+        <p>Last Updated on 11/08/2024 18:09:39 UTC</p>
+        <!--END_SECTION:waka-->
+    </details>
+    <div class="social-links" style="text-align: center; margin-top: 20px;">
+        <a href="https://nmoorthy.site" target="_blank" title="Website">Website</a>
+        <a href="https://steamcommunity.com/profiles/76561199150321860/" target="_blank" title="Steam">Steam</a>
+        <a href="https://www.linkedin.com/in/narasimmamoorthy-sukumar/" target="_blank" title="LinkedIn">LinkedIn</a>
+        <a href="https://github.com/N-Moorthy/" target="_blank" title="GitHub">GitHub</a>
+    </div>
+</body>
 </html>
