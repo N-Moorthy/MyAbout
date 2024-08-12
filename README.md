@@ -16,10 +16,19 @@
 
 - ⚡ Fun fact **I'm a Gamer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narasimmamoorthy-sukumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narasimmamoorthy-sukumar/" height="30" width="40" /></a>
-</p>
+</head>
+<body>
+    <h1>Connect with Me</h1>
+    <div class="social-links">
+        <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank" title="LinkedIn">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://steamcommunity.com/id/YOUR_PROFILE" target="_blank" title="Steam">
+            <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+        </a>
+    </div>
+</body>
+</html>
 
 </head>
 <body>
