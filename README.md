@@ -1,4 +1,7 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8QoNE7NqYqqlJrn_8MoIkQ.gif)](https://nmoorthy.site)
+
 # Hi there, I'm Narasimmamoorthy! 👋
+
 
 - 🌱 I’m currently doing **DevOps**
 - 👨‍💻 All of my projects are available at **[here][github]**
@@ -7,7 +10,6 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
 
