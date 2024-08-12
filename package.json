@@ -1,7 +1,7 @@
 {
-  "name": "adityacprtm",
+  "name": "N-Moorthy",
   "version": "1.4.8",
-  "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
+  "description": "A personal npm card for Narasimmamoorthy Sukuamr (@N-Moorthy)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -21,7 +21,7 @@
     "javascript",
     "npx card"
   ],
-  "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://adityacprtm.dev/)",
+  "author": "Narasimmamoorthy Sukumar <nmoorthy.s@yahoo.com> (https://nmoorhty.site/)",
   "license": "MIT",
   "dependencies": {
     "boxen": "5.1.2",
@@ -30,5 +30,5 @@
     "inquirer": "8.2.0",
     "open": "^8.4.0"
   },
-  "repository": "https://github.com/Adityacprtm/Adityacprtm.git"
+  "repository": "https://github.com/N-Moorthy/MyAbout.git"
 }
