@@ -1,6 +1,8 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*reRpiezl3EnhtteqjoGSLw.gif)](https://nmoorthy.site)
 <!DOCTYPE html>
-<h1 align="center">Hi 👋, I'm Narasimmamoorthy</h1>
+<h1 align="center">Hi There👋, I'm Narasimmamoorthy</h1>
 <h3 align="center">A Passionate & Newbie DevOps Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/10/26133730/60586-developer-isometric-people.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-moorthy&label=Profile%20views&color=0e75b6&style=flat" alt="n-moorthy" /> </p>
 
