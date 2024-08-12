@@ -2,6 +2,7 @@
 
 # Hi there, I'm Narasimmamoorthy! 👋
 
+[![Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8QoNE7NqYqqlJrn_8MoIkQ.gif)]
 
 - 🌱 I’m currently doing **DevOps**
 - 👨‍💻 All of my projects are available at **[here][github]**
