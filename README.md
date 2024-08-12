@@ -4,15 +4,22 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*8QoNE7NqYqqlJrn_8MoIkQ.gif" alt="Coding" align="right" width="400">
 
+
 - 🌱 I’m currently doing **DevOps**
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📫 How to reach me **nmoorthy.s@yahoo.com**
 - ⚡ Fun fact **I'm a Gamer** 💘
 
+
+
+
 ## 😎 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
+
+
+
 
 ## 👨‍💻 Technologies and Tools
 
