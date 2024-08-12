@@ -5,10 +5,6 @@
 - 📫 How to reach me **nmoorthy.s@yahoo.com**
 - ⚡ Fun fact **I'm a Gamer** 💘
 
-## 😎 Connect with me
-
-[![Linkedin](www.linkedin.com/in/narasimmamoorthy-sukumar)][linkedin]
-[![Steam](https://steamcommunity.com/profiles/76561199150321860/)][steam]
 
 ## 👨‍💻 Technologies and Tools
 
@@ -24,14 +20,6 @@
 | Metric & Analytics | ![Prometheus](https://img.shields.io/badge/Prometheus-F2F4F9?style=for-the-badge&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Other              | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-## ✨ Card
-
-<details>
-  <summary> :zap: Expand me</summary>
-
-![Imgur](https://i.imgur.com/SC6Rt8F.jpg)
-
-</details>
 
 ## 🚀 Github Stats
 
@@ -40,74 +28,7 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C977%20hrs%2045%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.8%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 541.2 kB Used in GitHub's Storage 
- > 
-> 🏆 616 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10917 commits       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-🌆 Daytime                20240 commits       █████████░░░░░░░░░░░░░░░░   35.62 % 
-🌃 Evening                20586 commits       █████████░░░░░░░░░░░░░░░░   36.22 % 
-🌙 Night                  5086 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   5424 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Tuesday                  11384 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Wednesday                8482 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Thursday                 10715 commits       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Friday                   11702 commits       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Saturday                 4619 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Sunday                   4503 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Terraform                2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-Nginx configuration file 1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Docker                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 35 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Go                       16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HCL                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
 
 
  Last Updated on 11/08/2024 18:09:39 UTC
@@ -115,11 +36,6 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 
 </details>
 
-[website]: https://adityacprtm.dev
-[blog]: https://adityacprtm.dev/blog
-[twitter]: https://twitter.com/adityacprtm
-[steam]: https://steamcommunity.com/id/adityacprtm
-[instagram]: https://instagram.com/adityacprtm
-[linkedin]: https://linkedin.com/in/adityacprtm
-[facebook]: https://www.facebook.com/adityacprtm
-[github]: https://github.com/Adityacprtm
+[steam]: https://steamcommunity.com/profiles/76561199150321860/
+[linkedin]: https://www.linkedin.com/in/narasimmamoorthy-sukumar/
+[github]: https://github.com/N-Moorthy/
