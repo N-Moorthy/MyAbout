@@ -138,12 +138,11 @@
         <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Dark" />
         <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake" />
     </div>
-    <details>
-        <summary> :zap: Expand me</summary>
-        <!--START_SECTION:waka-->
-        <p>Last Updated on 11/08/2024 18:09:39 UTC</p>
-        <!--END_SECTION:waka-->
-    </details>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-moorthy&show_icons=true&locale=en&layout=compact" alt="n-moorthy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-moorthy&show_icons=true&locale=en" alt="n-moorthy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-moorthy&" alt="n-moorthy" /></p>
     <div class="social-links" style="text-align: center; margin-top: 20px;">
         <a href="https://nmoorthy.site" target="_blank" title="Website">Website</a>
         <a href="https://steamcommunity.com/profiles/76561199150321860/" target="_blank" title="Steam">Steam</a>
